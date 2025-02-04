@@ -1,1 +1,2 @@
 # snake_game
+The game involves a snake that moves within a grid, consuming food to grow while avoiding collisions with itself and the walls. The player can control the snake using arrow keys, but when no input is provided, BFS finds the shortest path to the food, ensuring optimal movement. If no direct path exists, BFS helps in making safe moves to prolong survival. This combination of *manual control* and *AI-driven pathfinding* enhances the gameplay experience, making it both interactive and intelligent.
